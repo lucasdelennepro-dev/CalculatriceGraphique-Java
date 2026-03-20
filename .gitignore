@@ -1,0 +1,19 @@
+# Fichiers compilés
+*.class
+*.log
+*.jar
+*.war
+
+# Dossiers de build
+/bin
+/build
+/target
+
+# Configuration Eclipse (on garde .project et .classpath, mais on ignore les settings perso)
+.settings/
+.loadpath
+.recommenders
+
+# MacOS / Windows
+.DS_Store
+Thumbs.db
