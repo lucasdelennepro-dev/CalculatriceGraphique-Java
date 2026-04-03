@@ -15,7 +15,7 @@ Une application Java permettant de réaliser tout type d'opération de manière 
 - **OS :** Windows / Linux
 
 ## 📦 Installation et Lancement
-1. Cloner le dépôt : `git clone https://github.com/lucasdelennepro-dev/Calculatrice-graphique-JAVA.git`
+1. Cloner le dépôt : `git clone https://github.com/lucasdelennepro-dev/CalculatriceGraphique-Java.git`
 2. Ouvrir **Eclipse**.
 3. Faire `File` > `Import` > `General` > `Existing Projects into Workspace`.
 4. Sélectionner le dossier du projet.
