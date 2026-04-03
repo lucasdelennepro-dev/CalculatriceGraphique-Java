@@ -22,4 +22,4 @@ Une application Java permettant de réaliser tout type d'opération de manière 
 5. Lancer la classe `Main.java`.
 
 ## 📸 Captures d'écran
-![Capture d'écran]([assets/CaptureApp.png](https://github.com/lucasdelennepro-dev/CalculatriceGraphique-Java/blob/a155a1b09010232e1d0774a1991ac8ed34161c46/assets/CaptureApp.PNG))
+![Image alt].(https://github.com/lucasdelennepro-dev/CalculatriceGraphique-Java/blob/a155a1b09010232e1d0774a1991ac8ed34161c46/assets/CaptureApp.PNG).
